@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Blog AI",
+  "description": "A production-ready AI-powered blogging platform featuring rich text editing, intelligent content generation, and seamless management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
